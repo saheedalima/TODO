@@ -152,6 +152,4 @@ class _HomePageState extends State<HomePage> {
     ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text("Successfully deleted")));
 
   }
-
-
 }
